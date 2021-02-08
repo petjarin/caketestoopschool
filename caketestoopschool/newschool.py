@@ -1,8 +1,8 @@
 # newschool.py
 
-import school
-from school import Student,SpicialStudent 
-from school import * # import  all
+import caketestoopschool.school
+from caketestoopschool.school import Student,SpicialStudent 
+from caketestoopschool.school import * # import  all
 
 def Test():
     '''

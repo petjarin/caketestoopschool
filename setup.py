@@ -12,14 +12,14 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'caketestoopschool',      
   packages = ['caketestoopschool'], 
-  version = '0.0.1',  
+  version = '0.0.2',  
   license='MIT', 
   description = 'OOP School by CKDEV',
   long_description=DESCRIPTION,
   author = 'CKDEV',                 
   author_email = 'cakesesaweah@gmail.com',     
-  url = 'https://github.com/UncleEngineer/UncleChat',  
-  download_url = 'https://github.com/UncleEngineer/UncleChat/archive/0.0.1.zip',  
+  url = 'https://github.com/petjarin/caketestoopschool',  
+  download_url = 'https://github.com/petjarin/caketestoopschool/archive/v0.0.2.zip',  
   keywords = ['OOP', 'School', 'CKDEV'],   
   classifiers=[
     'Development Status :: 3 - Alpha',     

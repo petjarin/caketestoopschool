@@ -1,3 +1,6 @@
+
+
+with PyPi https://pypi.org/project/caketestoopschool/0.0.1/
 # (OOP School) ใช้สำหรับใช้เรียน Python OOP CKDEV 
 
 Python OOP+ วิธีสร้าง Library เป็นของตัวเอง+ อัพโหลด Package ไปยัง PyPI.org
